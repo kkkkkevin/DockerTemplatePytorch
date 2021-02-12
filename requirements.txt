@@ -1,0 +1,20 @@
+# base
+cython
+git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI&egg=pycocotools
+git+https://github.com/cocodataset/panopticapi.git#egg=panopticapi
+torch
+torchvision
+albumentations
+scipy
+tensorboard
+tqdm
+# plotting
+seaborn
+pandas
+# extras
+submitit
+sklearn
+numba
+timm
+omegaconf
+thop
